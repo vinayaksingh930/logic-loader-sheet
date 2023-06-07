@@ -8,6 +8,6 @@ int main()
     for (int i=1;i<=n;i++){
         mul=mul*i; 
     }
-    printf("%d\n",sum);
+    printf("%d\n",mul);
     return 0;
 }
